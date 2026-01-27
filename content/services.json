@@ -1,0 +1,46 @@
+[
+  {
+    "name": "Plumbing",
+    "description": "Polished, professional plumbing services"
+  },
+  {
+    "name": "Roofing",
+    "description": "Professional roofing services"
+  },
+  {
+    "name": "Emergency Plumbing Repairs",
+    "description": "Professional emergency plumbing repair services"
+  },
+  {
+    "name": "Appliance Installation",
+    "description": "Professional appliance installation services"
+  },
+  {
+    "name": "Roofing Plumbing",
+    "description": "Professional roofing plumbing services"
+  },
+  {
+    "name": "Guttering",
+    "description": "Professional guttering services"
+  },
+  {
+    "name": "Bathroom",
+    "description": "Professional bathroom services"
+  },
+  {
+    "name": "Leak Detection & Repair",
+    "description": "Professional leak detection and repair services"
+  },
+  {
+    "name": "Appliance Installation & Repair",
+    "description": "Professional appliance installation and repair services"
+  },
+  {
+    "name": "Blocked Drain Cleaning & Repair",
+    "description": "Professional blocked drain cleaning and repair services"
+  },
+  {
+    "name": "Virtual Consultations",
+    "description": "Virtual consultations for plumbing needs"
+  }
+]
