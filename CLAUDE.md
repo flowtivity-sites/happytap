@@ -15,15 +15,15 @@ Next.js 14+ website with Tailwind CSS, deployed to Cloudflare Pages as static ex
 ### Typography (use next/font)
 ```typescript
 // app/layout.tsx
-import { Space_Grotesk, DM_Sans } from 'next/font/google'
+import { Bebas_Neue, Work_Sans } from 'next/font/google'
 
-const displayFont = Space_Grotesk({
+const displayFont = Bebas_Neue({
   subsets: ['latin'],
   weight: ['400', '700', '900'],
   variable: '--font-display'
 })
 
-const bodyFont = DM_Sans({
+const bodyFont = Work_Sans({
   subsets: ['latin'],
   weight: ['400', '500', '600'],
   variable: '--font-body'
@@ -33,24 +33,32 @@ const bodyFont = DM_Sans({
 ### Colors (in globals.css)
 ```css
 :root {
-  --color-primary: #1B365D;
-  --color-accent: #FF6B35;
-  --color-surface: #F8FAFB;
-  --color-text: #2C3E50;
-  --color-text-muted: #64748B;
+  --color-primary: #1e3a8a;
+  --color-accent: #f59e0b;
+  --color-surface: #f8fafc;
+  --color-text: #1f2937;
+  --color-text-muted: #6b7280;
 }
 ```
 
 ### Effects to Include
-- subtle gradients
-- bold shadows
 - geometric shapes
-- micro-animations
+- bold shadows
+- decorative lines
+- subtle gradients
 
 ## Available Images
 **CRITICAL: Use these images from assets/images/ - do NOT use placeholder images!**
 
-No images available
+- 11062b_366f7fdbcafc4effaeddb0dba92014c1_mv2.png
+- 11062b_60c5fc4a3ecd49f2a697206b09eeace1_mv2.png
+- 11062b_681c6c82d3344ca09a024b18998e0f66_mv2.png
+- 11062b_6e9638ad803e4099a6116eb750b5a584_mv2.png
+- 7d46e0_5078480d8be3488c8cc18b9e4bc417de_mv2.png
+- Leaky_20Sink_20Drain_20Pipe.jpeg
+- Plumber_20at_20Work.png
+- Vaccum_20Cleaner.jpg
+- Washing_20Machine_20Maintenance.jpg
 
 ### How to use images:
 ```tsx

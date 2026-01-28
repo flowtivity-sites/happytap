@@ -3,15 +3,12 @@
     "url": "https://www.happytap.com.au",
     "title": "Home | Happy Tap Plumbing",
     "content": "Happy Tap Plumbing is a local, friendly plumbing expert on the Gold Coast. They offer professional plumbing and roofing services with a guarantee of no plumbers crack.",
-    "headings": [
-      "HAPPY TAP PLUMBING",
-      "I'm Jack from Happy Tap!"
-    ]
+    "headings": []
   },
   {
     "url": "https://www.happytap.com.au/blank-3",
     "title": "Services | Happy Tap Plumbing",
-    "content": "The page showcases a plumbing and appliance repair business offering a variety of services including emergency plumbing repairs, appliance installation, roofing plumbing, guttering, leak detection, and blocked drain cleaning. The business provides contact information, address, and opening hours for customer convenience.",
+    "content": "The page showcases a plumbing and repair business offering a variety of services including emergency plumbing repairs, appliance installation, roofing plumbing, guttering, leak detection, and blocked drain cleaning. The business provides contact information including address, phone number, email, and operating hours.",
     "headings": [
       "SERVICES",
       "Contact Us",
@@ -23,7 +20,7 @@
   {
     "url": "https://www.happytap.com.au/blank-2",
     "title": "FAQ | Happy Tap Plumbing",
-    "content": "This page provides a list of frequently asked questions and answers related to Happy Tap Plumbing services. It covers topics such as virtual consultations, hourly rates, and accepted payment methods. The company aims to be a qualified expert for all plumbing needs and encourages users to reach out if they can't find the answers they're looking for.",
+    "content": "Happy Tap Plumbing is committed to being qualified experts for all your plumbing needs. This page provides a list of frequently asked questions and answers related to their services, including virtual consultations, hourly rates, and accepted payment methods.",
     "headings": [
       "FREQUENTLY ASKED QUESTIONS",
       "Q&A",
@@ -35,13 +32,13 @@
   {
     "url": "https://www.happytap.com.au/book-online",
     "title": "Book Online | Happy Tap Plumbing",
-    "content": "The page indicates that there are no bookings available at the moment and advises visitors to check back later.",
+    "content": "The page indicates that there are currently no bookings available. It advises visitors to check back later.",
     "headings": []
   },
   {
     "url": "https://www.happytap.com.au/blank-4",
     "title": "Contact | Happy Tap Plumbing",
-    "content": "This page is a contact page for Happy Tap plumbing services. It provides the phone number and email address to contact Jack at Happy Tap, located in Gold Coast, QLD, Australia.",
+    "content": "This page is a contact page for Happy Tap plumbing services. It provides a phone number and email address to contact Jack at Happy Tap for plumbing services in Gold Coast, QLD, Australia.",
     "headings": [
       "CONTACT JACK AT HAPPY TAP TODAY"
     ]
@@ -49,10 +46,7 @@
   {
     "url": "https://www.happytap.com.au/",
     "title": "Home | Happy Tap Plumbing",
-    "content": "Happy Tap Plumbing is a local, friendly plumbing expert on the Gold Coast. They offer professional plumbing and roofing services with over 10 years of experience. They provide polished services that leave customers and their amenities smiling, and they attend to plumbing problems promptly, honestly, and competently.",
-    "headings": [
-      "HAPPY TAP PLUMBING",
-      "I'm Jack from Happy Tap!"
-    ]
+    "content": "Happy Tap Plumbing is a local, friendly plumbing expert on the Gold Coast. They offer professional plumbing and roofing services with over 10 years of experience. They provide emergency maintenance available 24/7.",
+    "headings": []
   }
 ]

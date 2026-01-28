@@ -10,39 +10,39 @@ npm run dev
 ```
 
 ## Design Direction
-- **Aesthetic:** Friendly Expert
-- **Display Font:** Archivo Black
-- **Body Font:** Source Sans Pro
-- **Primary Color:** #0F5132
-- **Accent Color:** #FD7E14
-- **Effects:** organic blobs, decorative lines, offset elements, subtle gradients
+- **Aesthetic:** Gold Coast Professional
+- **Display Font:** Bebas Neue
+- **Body Font:** Work Sans
+- **Primary Color:** #1e3a8a
+- **Accent Color:** #f59e0b
+- **Effects:** geometric shapes, bold shadows, decorative lines, subtle gradients
 
 ## Design Variations Available
 This site has 4 unique design variations to choose from. The recommended variation is applied below, but you can switch by updating `selectedVariation` in prd.json.
 
 ### Gold Coast Professional (variation-1) - RECOMMENDED
-- **Rationale:** This design reflects Happy Tap's local Gold Coast identity with ocean-inspired blues paired with professional confidence. The clean, trustworthy aesthetic emphasizes their 'friendly expert' positioning while maintaining the reliability trades customers expect.
-- **Palette:** Primary #1B365D, Accent #FF6B35
-- **Fonts:** Space Grotesk / DM Sans
-- **Mood:** professional, trustworthy, modern, approachable
+- **Rationale:** This design reflects Happy Tap's commitment to professional service with a clean, trustworthy aesthetic. The navy and gold palette echoes the Gold Coast's premium coastal lifestyle while maintaining the reliability trades customers expect.
+- **Palette:** Primary #1e3a8a, Accent #f59e0b
+- **Fonts:** Bebas Neue / Work Sans
+- **Mood:** professional, trustworthy, modern
 
 ### Industrial Strength (variation-2)
-- **Rationale:** Emphasizes Happy Tap's comprehensive plumbing and roofing capabilities with industrial aesthetics. The bold, utilitarian design communicates strength and reliability, perfect for emergency services and major installations.
-- **Palette:** Primary #2D3748, Accent #F6D55C
-- **Fonts:** Bebas Neue / Work Sans
-- **Mood:** industrial, bold, reliable, powerful
+- **Rationale:** Emphasizes Happy Tap's expertise in both plumbing and roofing with a bold industrial aesthetic. The charcoal and teal combination conveys strength and water themes, perfect for a business that handles everything from emergency repairs to full installations.
+- **Palette:** Primary #374151, Accent #0d9488
+- **Fonts:** Oswald / Source Sans Pro
+- **Mood:** industrial, reliable, bold, utilitarian
 
 ### Friendly Expert (variation-3)
-- **Rationale:** Captures Happy Tap's unique 'no plumbers crack' guarantee and friendly approach with warmer colors and approachable design. The forest green suggests growth and trust while maintaining professional credibility for plumbing services.
-- **Palette:** Primary #0F5132, Accent #FD7E14
-- **Fonts:** Archivo Black / Source Sans Pro
-- **Mood:** friendly, welcoming, organic, trustworthy
+- **Rationale:** Captures Happy Tap's 'local friendly expert' positioning with warm colors and approachable design. The forest green represents growth and reliability while yellow adds the friendly, approachable energy that matches their 'Happy' brand personality.
+- **Palette:** Primary #065f46, Accent #fbbf24
+- **Fonts:** Space Grotesk / DM Sans
+- **Mood:** friendly, approachable, expert, warm
 
-### Coastal Utility (variation-4)
-- **Rationale:** Combines Happy Tap's Gold Coast location with utility-focused design through coastal teal and modern typography. This variation emphasizes their comprehensive service range while maintaining the beachside professionalism expected on the Gold Coast.
-- **Palette:** Primary #475569, Accent #0891B2
-- **Fonts:** Oswald / Inter
-- **Mood:** coastal, modern, dynamic, professional
+### Coastal Confidence (variation-4)
+- **Rationale:** Designed specifically for Happy Tap's Gold Coast location, this variation uses ocean-inspired blues with vibrant orange accents. The bold typography and dynamic effects reflect confidence in handling any plumbing challenge while maintaining the coastal lifestyle appeal.
+- **Palette:** Primary #1e40af, Accent #ea580c
+- **Fonts:** Archivo Black / Inter
+- **Mood:** confident, dynamic, coastal, energetic
 
 
 ## Business Information
@@ -60,7 +60,7 @@ Sunday
 
 ## Services
 ### Plumbing
-Polished, professional plumbing services
+Professional plumbing services
 
 ### Roofing
 Professional roofing services
@@ -95,7 +95,15 @@ Virtual consultations for plumbing needs
 ## Available Images
 **IMPORTANT:** Use these downloaded images from the original website. Do NOT use placeholder images.
 
-No images downloaded - use placeholder images sparingly
+- `assets/images/11062b_366f7fdbcafc4effaeddb0dba92014c1_mv2.png`
+- `assets/images/11062b_60c5fc4a3ecd49f2a697206b09eeace1_mv2.png`
+- `assets/images/11062b_681c6c82d3344ca09a024b18998e0f66_mv2.png`
+- `assets/images/11062b_6e9638ad803e4099a6116eb750b5a584_mv2.png`
+- `assets/images/7d46e0_5078480d8be3488c8cc18b9e4bc417de_mv2.png`
+- `assets/images/Leaky_20Sink_20Drain_20Pipe.jpeg`
+- `assets/images/Plumber_20at_20Work.png`
+- `assets/images/Vaccum_20Cleaner.jpg`
+- `assets/images/Washing_20Machine_20Maintenance.jpg`
 
 ## Content Files
 - `content/pages.json` - Scraped page content

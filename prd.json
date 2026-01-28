@@ -4,20 +4,20 @@
   "slug": "happytap",
   "category": "trades",
   "designDirection": {
-    "aesthetic": "Friendly Expert",
-    "displayFont": "Archivo Black",
-    "bodyFont": "Source Sans Pro",
+    "aesthetic": "Gold Coast Professional",
+    "displayFont": "Bebas Neue",
+    "bodyFont": "Work Sans",
     "palette": {
-      "primary": "#0F5132",
-      "accent": "#FD7E14",
-      "surface": "#F8F9FA",
-      "text": "#212529",
-      "textMuted": "#6C757D"
+      "primary": "#1e3a8a",
+      "accent": "#f59e0b",
+      "surface": "#f8fafc",
+      "text": "#1f2937",
+      "textMuted": "#6b7280"
     },
     "effects": [
-      "organic blobs",
+      "geometric shapes",
+      "bold shadows",
       "decorative lines",
-      "offset elements",
       "subtle gradients"
     ]
   },
@@ -25,143 +25,142 @@
     {
       "id": "variation-1",
       "name": "Gold Coast Professional",
-      "rationale": "This design reflects Happy Tap's local Gold Coast identity with ocean-inspired blues paired with professional confidence. The clean, trustworthy aesthetic emphasizes their 'friendly expert' positioning while maintaining the reliability trades customers expect.",
+      "rationale": "This design reflects Happy Tap's commitment to professional service with a clean, trustworthy aesthetic. The navy and gold palette echoes the Gold Coast's premium coastal lifestyle while maintaining the reliability trades customers expect.",
       "palette": {
-        "primary": "#1B365D",
-        "accent": "#FF6B35",
-        "surface": "#F8FAFB",
-        "text": "#2C3E50",
-        "textMuted": "#64748B"
-      },
-      "fonts": {
-        "display": "Space Grotesk",
-        "body": "DM Sans"
-      },
-      "layout": {
-        "hero": "Split-screen hero with service imagery on left, bold headline and CTAs on right",
-        "sections": "Alternating left-right content blocks with generous whitespace",
-        "cards": "Clean minimal cards with subtle shadows and rounded corners"
-      },
-      "effects": [
-        "subtle gradients",
-        "bold shadows",
-        "geometric shapes",
-        "micro-animations"
-      ],
-      "mood": [
-        "professional",
-        "trustworthy",
-        "modern",
-        "approachable"
-      ],
-      "recommended": true,
-      "recommendationReason": "Best balances the friendly local business personality with professional trades credibility, while the Gold Coast color palette creates strong local connection."
-    },
-    {
-      "id": "variation-2",
-      "name": "Industrial Strength",
-      "rationale": "Emphasizes Happy Tap's comprehensive plumbing and roofing capabilities with industrial aesthetics. The bold, utilitarian design communicates strength and reliability, perfect for emergency services and major installations.",
-      "palette": {
-        "primary": "#2D3748",
-        "accent": "#F6D55C",
-        "surface": "#F7FAFC",
-        "text": "#1A202C",
-        "textMuted": "#4A5568"
+        "primary": "#1e3a8a",
+        "accent": "#f59e0b",
+        "surface": "#f8fafc",
+        "text": "#1f2937",
+        "textMuted": "#6b7280"
       },
       "fonts": {
         "display": "Bebas Neue",
         "body": "Work Sans"
       },
       "layout": {
-        "hero": "Full-width background with centered bold typography and overlaid service badges",
-        "sections": "Grid-based layout with strong geometric divisions",
-        "cards": "Angular cards with bold borders and high contrast styling"
+        "hero": "Split layout with bold typography on left, professional service imagery on right",
+        "sections": "Alternating left-right content blocks with strong geometric dividers",
+        "cards": "Clean bordered cards with subtle shadows and bold accent highlights"
+      },
+      "effects": [
+        "geometric shapes",
+        "bold shadows",
+        "decorative lines",
+        "subtle gradients"
+      ],
+      "mood": [
+        "professional",
+        "trustworthy",
+        "modern"
+      ],
+      "recommended": true,
+      "recommendationReason": "Best balances the friendly local approach with professional credibility that trades customers need when choosing a plumber for their home"
+    },
+    {
+      "id": "variation-2",
+      "name": "Industrial Strength",
+      "rationale": "Emphasizes Happy Tap's expertise in both plumbing and roofing with a bold industrial aesthetic. The charcoal and teal combination conveys strength and water themes, perfect for a business that handles everything from emergency repairs to full installations.",
+      "palette": {
+        "primary": "#374151",
+        "accent": "#0d9488",
+        "surface": "#f1f5f9",
+        "text": "#111827",
+        "textMuted": "#4b5563"
+      },
+      "fonts": {
+        "display": "Oswald",
+        "body": "Source Sans Pro"
+      },
+      "layout": {
+        "hero": "Full-width background with centered bold typography and prominent call-to-action",
+        "sections": "Grid-based layout with strong vertical rhythm and industrial spacing",
+        "cards": "Minimal flat cards with thick accent borders and bold typography"
       },
       "effects": [
         "grain texture",
         "bold lines",
-        "geometric shapes",
-        "high contrast",
-        "texture overlays"
+        "offset elements",
+        "high contrast blocks"
       ],
       "mood": [
         "industrial",
-        "bold",
         "reliable",
-        "powerful"
+        "bold",
+        "utilitarian"
       ],
       "recommended": false
     },
     {
       "id": "variation-3",
       "name": "Friendly Expert",
-      "rationale": "Captures Happy Tap's unique 'no plumbers crack' guarantee and friendly approach with warmer colors and approachable design. The forest green suggests growth and trust while maintaining professional credibility for plumbing services.",
+      "rationale": "Captures Happy Tap's 'local friendly expert' positioning with warm colors and approachable design. The forest green represents growth and reliability while yellow adds the friendly, approachable energy that matches their 'Happy' brand personality.",
       "palette": {
-        "primary": "#0F5132",
-        "accent": "#FD7E14",
-        "surface": "#F8F9FA",
-        "text": "#212529",
-        "textMuted": "#6C757D"
+        "primary": "#065f46",
+        "accent": "#fbbf24",
+        "surface": "#fefefe",
+        "text": "#1f2937",
+        "textMuted": "#64748b"
       },
       "fonts": {
-        "display": "Archivo Black",
-        "body": "Source Sans Pro"
+        "display": "Space Grotesk",
+        "body": "DM Sans"
       },
       "layout": {
-        "hero": "Centered hero with circular service icons and flowing content arrangement",
-        "sections": "Card-focused layout with organic spacing and friendly imagery",
-        "cards": "Soft rounded cards with warm shadows and welcoming imagery"
+        "hero": "Centered text over subtle background pattern with organic service icons",
+        "sections": "Card-focused layout with generous whitespace and friendly imagery",
+        "cards": "Rounded cards with soft shadows and warm accent highlights"
       },
       "effects": [
         "organic blobs",
-        "decorative lines",
-        "offset elements",
-        "subtle gradients"
+        "texture overlays",
+        "micro-animations",
+        "subtle gradients",
+        "decorative elements"
       ],
       "mood": [
         "friendly",
-        "welcoming",
-        "organic",
-        "trustworthy"
+        "approachable",
+        "expert",
+        "warm"
       ],
       "recommended": false
     },
     {
       "id": "variation-4",
-      "name": "Coastal Utility",
-      "rationale": "Combines Happy Tap's Gold Coast location with utility-focused design through coastal teal and modern typography. This variation emphasizes their comprehensive service range while maintaining the beachside professionalism expected on the Gold Coast.",
+      "name": "Coastal Confidence",
+      "rationale": "Designed specifically for Happy Tap's Gold Coast location, this variation uses ocean-inspired blues with vibrant orange accents. The bold typography and dynamic effects reflect confidence in handling any plumbing challenge while maintaining the coastal lifestyle appeal.",
       "palette": {
-        "primary": "#475569",
-        "accent": "#0891B2",
-        "surface": "#F1F5F9",
-        "text": "#1E293B",
-        "textMuted": "#64748B"
+        "primary": "#1e40af",
+        "accent": "#ea580c",
+        "surface": "#f0f9ff",
+        "text": "#0f172a",
+        "textMuted": "#475569"
       },
       "fonts": {
-        "display": "Oswald",
+        "display": "Archivo Black",
         "body": "Inter"
       },
       "layout": {
-        "hero": "Diagonal split layout with service showcase and prominent contact information",
-        "sections": "Staggered content blocks with coastal-inspired flow",
-        "cards": "Layered cards with depth and maritime-inspired spacing"
+        "hero": "Dynamic diagonal split with bold typography and overlapping service elements",
+        "sections": "Staggered grid layout with flowing transitions between content blocks",
+        "cards": "Angular cards with bold shadows and dynamic hover effects"
       },
       "effects": [
         "parallax hints",
         "bold shadows",
-        "offset elements",
-        "geometric shapes"
+        "geometric overlays",
+        "dynamic transitions"
       ],
       "mood": [
-        "coastal",
-        "modern",
+        "confident",
         "dynamic",
-        "professional"
+        "coastal",
+        "energetic"
       ],
       "recommended": false
     }
   ],
-  "selectedVariation": "variation-3",
+  "selectedVariation": "variation-1",
   "stories": [
     {
       "id": 1,
